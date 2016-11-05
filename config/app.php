@@ -12,7 +12,7 @@ return [
     | any other location as required by the application or its packages.
      */
 
-    'name' => 'splate jaksdad',
+    'name' => 'splate jaksdad jakad',
 
     'description' => 'Your SaaS Boilerplate, for Malaysian, by Malaysian',
 
